@@ -8,7 +8,7 @@ enum class Person(val lastName: String, val age: Int, val sex: String){
     GREG("Jones", 25, "Male"),
     DENNIS("Merlin", 35, "Male"),
     SALLY("Wanjiru", 27, "Female"),
-    JANE("Booth", 32, "Female")
+    JANE("Boone", 32, "Female")
     
 }
 
